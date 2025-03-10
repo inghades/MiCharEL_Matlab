@@ -1,3 +1,6 @@
+%% The script is created by Igor Getmanov (e-mail igor.getmanov@kaust.edu.sa)
+%% Version 1.0
+
 clear all, close all
 
 phys_const_generate
